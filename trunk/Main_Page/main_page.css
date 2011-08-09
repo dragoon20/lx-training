@@ -1,0 +1,158 @@
+body {	
+	background-image:url('images/b.jpg');
+}
+#header {
+	height:120px;
+	background-image:url('images/header.png');
+	background-repeat:no-repeat;
+	margin-top:-20px;
+}
+#content {
+	height:710px;
+}
+#footer {
+	height:80px;
+	width:1353px;
+	background-color:white;
+	color:gray;
+}
+#navigation {
+	height:30px;
+	width:400px;
+	margin-left:906px;
+}
+#navigation ul { 	
+	list-style:none;
+	font-size:13px;
+}
+#navigation ul li {
+	float:left;
+	padding-right:4px;
+	margin-top:35px;
+}
+#navigation ul li a {
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:#363636;
+	border-radius:5px;
+	padding:7px;
+	line-height:30px;
+}
+#navigation ul li a:hover {
+	background-color:#262626;
+}
+#atas {
+	margin-left:140px;
+	margin-top:20px;
+}
+#bawah {	
+	margin-left:180px;
+	margin-top:20px;
+}
+
+.leftside , .middleside , .rightside {
+	height:465px;
+	width:350px;
+}
+.left1 { height:240px;}
+
+.left2 { height:180px;}
+p.subleft {
+	font-size:11px;
+	color:#464646;
+}
+.submiddle {height:54px; padding-left:7px;}
+.blue {color:#355F93;}
+.right1 { height:160px;} 
+.right2 { height:240px;}
+.maskot {
+	height:200px;
+	width:200px;
+}
+.mas {
+	margin-left:30px;
+}
+div.sambutan{
+	height:200px;
+	width:530px;
+}
+p.sambutan {
+	font-size:13px;
+	color:#6e6e6e;
+}
+h1.sambutan {
+	color:#464646;
+}
+h4.subjudul{
+	color:#355F93;
+	font-weight:bold;
+}
+.jarak {
+	padding-right:3px;
+}
+.formulir {
+	height:200px;
+	width:315px;
+	margin-top:-45px;
+	margin-left:765px;
+	z-index:1;
+	background-color:#262626;
+	border-radius:5px;
+	position:absolute;
+}
+.login {color:white; text-align:center; margin-top:10px;}
+.textbox {
+	width:285px;
+	margin-left:10px;
+	color:white;
+}
+.txtbox {
+	width:60px;
+}
+.akun {width:200px; color:white; margin-left:-40px; margin-top:20px;}
+.sandi {
+	text-decoration:none;
+	color:white;
+	margin-left:20px;	
+}
+.masuk {display:block; width:70px; text-align:center; padding:5px; border-radius:5px; background-color:#4185F3; font-weight:bold;}
+.center
+{
+	text-align:center;
+}
+.links
+{
+	height:30px;
+	width:550px;
+	margin-left:140px;
+	margin-top:10px;
+	font-size:13px;
+}
+a.link
+{
+	text-decoration:none;
+	color:#6e6e6e;
+}
+a.sosialnetwork
+{
+	text-decoration:none;
+	font-weight:bold;
+	color:#61B6C5;
+}
+.copyright
+{
+	height:30px;
+	width:200px;
+	margin-right:140px;
+	margin-top:10px;
+	color:#6e6e6e;
+	font-size:13px;
+}
+.merah {color:#8B0000;}
+.tebal {font-weight:bold;}
+.more {color:#8B0000; text-decoration:none; font-size:12px; font-style:italic;}
+.date {color:#464646; font-size:12px; font-style:italic; margin-top:-17px;}
+.star {margin-left:250px;}
+.naik {font-weight:bold; margin-top:-7px;}
+.bintang_naik {margin-top:-16px; margin-left:5px;}
